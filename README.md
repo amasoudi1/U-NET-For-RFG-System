@@ -6,4 +6,4 @@ There are two Notebooks in this repository :
 
 The first notebook contain some basic information on the image reconstruction problem. 
 
-The Complete version of these notebook will be published in SPIE Defence & Commercial Sensing 2020. 
+The Complete version of these notebooks will be published in SPIE Defence & Commercial Sensing 2020. 
