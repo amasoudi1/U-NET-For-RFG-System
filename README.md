@@ -1,2 +1,4 @@
-# U-NET-For-RFG-System
-U-Net For RFG System - Conventional Measurement
+# U-NET For X-Ray Image Reconstruction:
+
+1) X-Ray Image Reconstruction based on Conventional Measurement : 
+2) X-Ray Image Reconstruction based on Multiplexed Measurement : 
